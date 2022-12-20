@@ -27,7 +27,6 @@ int main()
     printf("\nModulo of A and B");
     printf(" = %d",a%b);
 
-
     return 0;
 
 }
