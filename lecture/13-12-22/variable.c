@@ -14,7 +14,7 @@ int main()
     printf("Enter your parcentage:  ");
     scanf("%f",&parcentage);
 
-    printf("My Name = %c,\nMy Age = %d,\nMy Parcentage = %f",name,age,parcentage);
+    printf("My Name = %c\nMy Age = %d\nMy Parcentage = %f",name,age,parcentage);
     return 0;
 
 
