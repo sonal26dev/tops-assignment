@@ -11,7 +11,7 @@ int main()
     printf("Enter The value Rate: ");
     scanf("%f",&rate);
 
-    printf("Enter The value Time: ");
+    printf("Enter The  Time: ");
     scanf("%d",&time);
 
     interest = principal * rate * time /100;
