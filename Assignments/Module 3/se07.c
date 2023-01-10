@@ -26,7 +26,7 @@ int main()
         printf(" %d * %d = %d\n", a, b, a * b);
         break;
     case '/':
-        printf(" %d / %d = %d\n", a, b,(float) a /(float) b);
+        printf(" %d / %d = %f\n", a, b,(float) a /(float) b);
         break;
     case '%':
         printf(" %d %% %d = %d\n", a, b, a % b);

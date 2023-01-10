@@ -6,7 +6,6 @@
 int main()
 {
     int a,b;
-    float c;
     printf("Enter The Value of A: ");
     scanf("%d",&a);
     printf("Enter The Value of B: ");
