@@ -1,5 +1,6 @@
 // WAP to find reverse of string using recursion
-#include <stdio.h>
+#include<stdio.h>
+#include<string.h>
 
 void reverse(char strg[])
 {
