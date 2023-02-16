@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "CE14.C": "cpp"
+        "CE14.C": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp"
     }
 }

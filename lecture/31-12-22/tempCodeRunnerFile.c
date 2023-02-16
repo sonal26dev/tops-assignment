@@ -1,1 +1,0 @@
-printf("%d + %d =%d\n", n, i, n + i);
