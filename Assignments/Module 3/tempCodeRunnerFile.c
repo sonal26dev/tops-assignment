@@ -1,17 +1,21 @@
-long int fact(int x);
-// int main()
-// {
-//     int x;
-//     printf("Enter A Number To Find Factorial: ");
-//     scanf("%d", &x);
-//     printf("The Factorial of %d = %ld", x, fact(x));
-//     return 0;
-// }
+/* Pattern = 1
+   1
+   1 0
+   1 0 1
+   1 0 1 0
+   1 0 1 0 1 */
 
-// long int fact(int x)
-// {
-//     if (x >= 1)
-//         return x * fact(x - 1);
-//     else
-//         return 1;
-// }
+#include<stdio.h>
+int main()
+{
+    for (int i = 1; i <= 5;i++)
+    {
+        for (int j = 1; j <= i;j++)
+        {
+            printf("%d ", j % 2);
+
+        }
+        printf("\n");
+    }
+        return 0;
+}

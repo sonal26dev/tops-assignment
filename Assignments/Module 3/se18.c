@@ -4,7 +4,7 @@ int main()
 {
     int array[20], i,size,location= 0;
 
-    printf("Enter the number of elements in araay\n ");
+    printf("Enter the number of elements in array\n ");
     scanf("%d", &size);
 
     printf("Enter %d integers\n", size);

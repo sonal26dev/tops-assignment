@@ -15,7 +15,6 @@ int main()
     d = y * 365;
 
     printf(" %d day\n", d);
-
     printf("\nEnter the Day: ");
     scanf("%d", &d);
 

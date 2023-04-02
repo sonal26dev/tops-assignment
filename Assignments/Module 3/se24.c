@@ -3,7 +3,7 @@
 int main()
 {
     char str[100];
-    printf("Enter the sting\n");
+    printf("Enter the string:\n");
     gets(str);
 
     int length = 0;
@@ -11,7 +11,7 @@ int main()
     {
         length++;
     }
-    printf("You Enter String Length is(%s): %d\n",str, length);
+    printf("\nYou Enter String Length is(%s): %d\n",str, length);
 
     return 0;
 }

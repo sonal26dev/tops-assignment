@@ -27,10 +27,3 @@ int main()
     printf("\nThe Area of The Triangle is : %f. ",side);
      return 0;
 }
-
-
-
-
-
-
-

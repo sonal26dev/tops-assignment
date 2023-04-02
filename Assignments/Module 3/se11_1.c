@@ -7,7 +7,7 @@ int main()
 
     for (i = 972; i >= 897; i--)
     {
-        printf("\n%d", i);
+        printf("\t%d", i);
     }
     return 0;
 }
