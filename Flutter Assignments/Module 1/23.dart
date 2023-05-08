@@ -12,5 +12,5 @@ void main() {
     firstDigit ~/= 10;
   }
   int sum = firstDigit + lastDigit;
-  print("The Summation of the Fisrt and Last Digits is : $sum");
+  print("The Summation of the Fisrt: ${firstDigit} and Last: ${lastDigit} Digits is = $sum");
 }
